@@ -1,0 +1,3 @@
+[submodule "hugo/themes/erblog"]
+	path = hugo/themes/erblog
+	url = https://github.com/ertuil/erblog
